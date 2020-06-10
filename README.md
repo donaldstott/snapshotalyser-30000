@@ -12,7 +12,7 @@ shotty uses the configuration file created by the AWS cli. e.g.
 
 `aws configure --profile shotty`
 
-## Running
+## Running - uses python3-venv
 
 `python shotty/shotty.py <command> <subcommand> <--project=PROJECT>`
 
